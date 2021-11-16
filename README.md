@@ -1,2 +1,10 @@
-# KkuTuMacro_Woounis
-끄투 핵(매크로입니다)2021/11/16일 기준으로 유일하게 핵(매크로) 사용이 가능한 서버는 분홍끄투(kkutu.pink)입니다. 끄투코리아에서도 분홍끄투에서도 쓰지 마시고 그냥 참고용으로만 봐주세요^^
+## 사용방법
+1. https://www.tampermonkey.net/ 에 들어가서 자신의 브라우저에 맞는 버전의 tampermonkey 설치
+
+2. kkutu.user.js 에 들어가서 **Raw** 클릭![enter image description here](https://i.imgur.com/sSfdAUT.jpg)
+
+3.  **설치** 클릭![enter image description here](https://i.imgur.com/xUXZ1mC.jpg)
+
+4.   https://kkutu.co.kr/ 에 들어가면 스크립트가 자동으로 적용됨
+
+**gamb1t#0001**
